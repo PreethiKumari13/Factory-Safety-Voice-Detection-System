@@ -113,3 +113,16 @@ python run.py
 ```bash
 python -m pytest tests
 ```
+---
+
+# 👥 Contributors
+
+This project was developed collaboratively by:
+
+- Taruna B V
+- Spoorthi A G
+- Sharath M
+- Sneha B
+- Preethi Kumari
+
+---
